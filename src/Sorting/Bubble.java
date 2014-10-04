@@ -11,8 +11,8 @@ public class Bubble {
     public int[] sorting(int[] mass){
         int size = mass.length;         //10
         for(int i=1; i < size; i++){
-            //for()
-            //if(mass[i] == mass[i]++)
+            for()
+            if(mass[i] == mass[i]++)
         }
         return null;
     }
