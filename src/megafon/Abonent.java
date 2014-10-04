@@ -37,7 +37,7 @@ public class Abonent {
         this.fio = fio;
         this.city = city;
         this.date = date;
-
+// sdg
     }
     public Abonent(){
 
